@@ -1,5 +1,13 @@
 <!DOCTYPE html>
-<html lang="en">
+<!--
+Template Name: Nocobot
+Author: <a href="https://www.os-templates.com/">OS Templates</a>
+Author URI: https://www.os-templates.com/
+Copyright: OS-Templates.com
+Licence: Free to use under our free template licence terms
+Licence URI: https://www.os-templates.com/template-terms
+-->
+<html lang="">
 <!-- To declare your language - read more here: https://www.w3.org/International/questions/qa-html-language-declarations -->
 <head>
 <title>Data4Good | Eventos | Agile Data Analysis for Sustainable CitiesLeft</title>
@@ -8,13 +16,18 @@
 <link href="../../layout/styles/layout.css" rel="stylesheet" type="text/css" media="all">
 </head>
 <body id="top">
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
 <div class="wrapper row0">
   <div id="topbar" class="hoc clear">
     <div class="fl_left"> 
+      <!-- ################################################################################################ -->
       <ul class="nospace">
         <li><i class="fas fa-phone rgtspace-5"></i> +00 (123) 456 7890</li>
         <li><i class="far fa-envelope rgtspace-5"></i> info@domain.com</li>
       </ul>
+      <!-- ################################################################################################ -->
     </div>
     <div class="fl_right"> 
       <!-- ################################################################################################ -->
