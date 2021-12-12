@@ -10,27 +10,21 @@ Licence URI: https://www.os-templates.com/template-terms
 <html lang="">
 <!-- To declare your language - read more here: https://www.w3.org/International/questions/qa-html-language-declarations -->
 <head>
-<title>Data4Good | Eventos | Agile Data Analysis for Sustainable CitiesLeft</title>
+<title>Data4Good | Events | Agile Data Analysis for Sustainable CitiesLeft</title>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 <link href="../../layout/styles/layout.css" rel="stylesheet" type="text/css" media="all">
 </head>
 <body id="top">
-<!-- ################################################################################################ -->
-<!-- ################################################################################################ -->
-<!-- ################################################################################################ -->
 <div class="wrapper row0">
   <div id="topbar" class="hoc clear">
     <div class="fl_left"> 
-      <!-- ################################################################################################ -->
       <ul class="nospace">
-        <li><i class="fas fa-phone rgtspace-5"></i> +00 (123) 456 7890</li>
-        <li><i class="far fa-envelope rgtspace-5"></i> info@domain.com</li>
+        <li><a href="https://twitter.com/EELISAD4GooD" title="Twitter"><i class="fab fa-twitter rgtspace-5"></i> @EELISAD4GooD</li>
+        <li><a href="https://blogs.upm.es/eelisa-data4good" title="Wordpress"><i class="fab fa-wordpress-simple rgtspace-5"></i> blogs.upm.es/eelisa-data4good</li>
       </ul>
-      <!-- ################################################################################################ -->
     </div>
     <div class="fl_right"> 
-      <!-- ################################################################################################ -->
       <ul class="nospace">
         <li><a href="#" title="Login"><i class="fas fa-sign-in-alt"></i></a></li>
         <li><a href="#" title="Sign Up"><i class="fas fa-edit"></i></a></li>
@@ -67,7 +61,7 @@ Licence URI: https://www.os-templates.com/template-terms
         <!-- ################################################################################################ -->
         <ul class="clear">
           <li><a href="../../index.html">Home</a></li>          
-          <li><a href="../eventos.html">Eventos</a></li>
+          <li><a href="../events.html">events</a></li>
         </ul>
         <!-- ################################################################################################ -->
       </nav>
@@ -82,7 +76,7 @@ Licence URI: https://www.os-templates.com/template-terms
       <h6 class="heading">Agile Data Analysis for Sustainable Cities</h6>
       <ul>
         <li><a href="../../index.html">Home</a></li>
-        <li><a href="../eventos.html">Eventos</a></li>
+        <li><a href="../events.html">Events</a></li>
         <li><a href="DataAgile.html">Agile Data Analysis for Sustainable Cities</a></li>
       </ul>
       <!-- ################################################################################################ -->
@@ -100,46 +94,33 @@ Licence URI: https://www.os-templates.com/template-terms
     <!-- ################################################################################################ -->
     <div class="sidebar one_quarter first"> 
       <!-- ################################################################################################ -->
-      <h6></h6>
-      <nav class="sdb_holder">
-        <ul>
-          <li><a href="#">Descripción</a></li>
-          <li><a href="#">Participar</a>
-          <li><a href="#">Información adicional</a>
-            <ul>
-              <li><a href="#">Ubicación</a></li>
-              <li><a href="#">Fecha y hora</a></li>
-            </ul>
-          </li>
-          <li><a href="#">Ponentes</a></li>
-        </ul>
-      </nav>
       <div class="sdb_holder">
-        <h6>Contacto</h6>
-        <address>
-        Full Name<br>
-        Address Line 1<br>
-        Address Line 2<br>
-        Town/City<br>
-        Postcode/Zip<br>
-        <br>
-        Tel: xxxx xxxx xxxxxx<br>
-        Email: <a href="#">contact@domain.com</a>
-        </address>
+        <h6>Date and time</h6>
+        Start date: XXXX_XXXX <br>
+		End date: XXXX_XXXX<br>
+		Time required: XXXh<br>
+      </div>
+	  <div class="sdb_holder">
+          <h6>Speakers</h6>
+		  <span class="badge">Online</span>
+		  <span class="badge">#spark</span>
+		  <span class="badge">#fiware</span>
+		  <span class="badge">#mlops</span>
+		  <span class="badge">#machine_learning</span>
+		  <span class="badge">#urban_mobility</span>
       </div>
       <div class="sdb_holder">
-        <article>
-          <h6>Etiquetas</h6>
-        </article>
+          <h6>Labels</h6>
+
       </div>
+
       <!-- ################################################################################################ -->
     </div>
     <!-- ################################################################################################ -->
     <!-- ################################################################################################ -->
     <div class="content three_quarter"> 
       <!-- ################################################################################################ -->
-      <h1>Sobre el evento</h1>
-      <img class="imgr borderedbox inspace-5" src="../images/demo/imgr.gif" alt="">
+      <h1>About</h1>
       <p>Most European cities have a large amount of data related to public space availability and usage. With the spreading of new technologies, mainly thanks to the IoT (Internet of Things), more and more data will be available in the coming years.</p>
       <p>However, to transform data into useful information it is fundamental to have people trained in Urban Mobility Data Science.</p>
       <p>ADA, the Agile Data Analysis for sustainable cities and citizens activity of the EIT Urban Mobility, aims at reducing the knowledge gap existing in Big Data and Data Science among professionals and organizations of the urban mobility area through training courses, provided as Virtual Data Lab. This means that you don’t need to be a Data scientist to make sense of this Data.</p>
@@ -148,77 +129,6 @@ Licence URI: https://www.os-templates.com/template-terms
       <p>In this course you will learn how to use Machine learning with real time streaming big data with the FIWARE architecture and the Spark Scala framework. We will introduce our easy to deploy EDVL in the cloud and be able to analyze some anonymized real life dataset.</p>
       <p>The course will be online on the 24th and 25th of November 2021 from 16:00 to 20:00. You will learn both the basis and a hands on laboratory.</p>
       <p><a href="https://www.urbandatascience.com/home">https://www.urbandatascience.com/home</a></p>
-      <div id="comments">
-        <h2>Comentarios</h2>
-        <ul>
-          <li>
-            <article>
-              <header>
-                <figure class="avatar"><img src="../../images/demo/avatar.png" alt=""></figure>
-                <address>
-                By <a href="#">A Name</a>
-                </address>
-                <time datetime="2045-04-06T08:15+00:00">Friday, 6<sup>th</sup> April 2045 @08:15:00</time>
-              </header>
-              <div class="comcont">
-                <p>This is an example of a comment made on a post. You can either edit the comment, delete the comment or reply to the comment. Use this as a place to respond to the post or to share what you are thinking.</p>
-              </div>
-            </article>
-          </li>
-          <li>
-            <article>
-              <header>
-                <figure class="avatar"><img src="../../images/demo/avatar.png" alt=""></figure>
-                <address>
-                By <a href="#">A Name</a>
-                </address>
-                <time datetime="2045-04-06T08:15+00:00">Friday, 6<sup>th</sup> April 2045 @08:15:00</time>
-              </header>
-              <div class="comcont">
-                <p>This is an example of a comment made on a post. You can either edit the comment, delete the comment or reply to the comment. Use this as a place to respond to the post or to share what you are thinking.</p>
-              </div>
-            </article>
-          </li>
-          <li>
-            <article>
-              <header>
-                <figure class="avatar"><img src="../images/demo/avatar.png" alt=""></figure>
-                <address>
-                By <a href="#">A Name</a>
-                </address>
-                <time datetime="2045-04-06T08:15+00:00">Friday, 6<sup>th</sup> April 2045 @08:15:00</time>
-              </header>
-              <div class="comcont">
-                <p>This is an example of a comment made on a post. You can either edit the comment, delete the comment or reply to the comment. Use this as a place to respond to the post or to share what you are thinking.</p>
-              </div>
-            </article>
-          </li>
-        </ul>
-        <h2>Write A Comment</h2>
-        <form action="#" method="post">
-          <div class="one_third first">
-            <label for="name">Name <span>*</span></label>
-            <input type="text" name="name" id="name" value="" size="22" required>
-          </div>
-          <div class="one_third">
-            <label for="email">Mail <span>*</span></label>
-            <input type="email" name="email" id="email" value="" size="22" required>
-          </div>
-          <div class="one_third">
-            <label for="url">Website</label>
-            <input type="url" name="url" id="url" value="" size="22">
-          </div>
-          <div class="block clear">
-            <label for="comment">Your Comment</label>
-            <textarea name="comment" id="comment" cols="25" rows="10"></textarea>
-          </div>
-          <div>
-            <input type="submit" name="submit" value="Submit Form">
-            &nbsp;
-            <input type="reset" name="reset" value="Reset Form">
-          </div>
-        </form>
-      </div>
       <!-- ################################################################################################ -->
     </div>
     <!-- ################################################################################################ -->
